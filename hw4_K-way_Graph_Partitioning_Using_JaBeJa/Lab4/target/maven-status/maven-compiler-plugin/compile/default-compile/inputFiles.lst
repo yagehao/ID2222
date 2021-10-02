@@ -1,0 +1,12 @@
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/Node.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/io/FileIO.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/JabejaTask2.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/config/NodeSelectionPolicy.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/io/GraphReader.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/Jabeja.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/config/Config.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/Main.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/config/GraphInitColorPolicy.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/JabejaTask2WithRestart.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/rand/RandNoGenerator.java
+/home/hongyi/Lab5-Id2222/src/main/java/se/kth/jabeja/io/CLI.java
